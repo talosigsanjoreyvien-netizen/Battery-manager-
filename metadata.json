@@ -1,0 +1,6 @@
+{
+  "name": "Uniblox OS Battery Manager",
+  "description": "A persistent battery management utility for Uniblox OS that enforces charging at low battery levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
